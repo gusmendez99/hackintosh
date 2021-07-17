@@ -3,9 +3,9 @@
 [![macOS](https://img.shields.io/badge/macOS-11.2.3-orange)](https://www.apple.com.cn/macos/big-sur-preview/)
 [![OpenCore](https://img.shields.io/badge/OpenCore-0.6.3-9cf)](https://github.com/acidanthera/OpenCorePkg)
 
-This is my first Hackintosh, running macOs Big Sur and completing my Triple Boot PC (Windows & PopOS!)
+This is my first Hackintosh, running macOs Big Sur and completing my Dual Boot PC (macOS / PopOS!), bye Windows...
 
-![macos](https://github.com/gusmendez99/hackintosh/blob/master/images/about.png?raw=true)
+![macOS](https://github.com/gusmendez99/hackintosh/blob/master/images/about.png?raw=true)
 
 - [OpenCore Install Guide](https://dortania.github.io/OpenCore-Install-Guide)
 
@@ -19,12 +19,12 @@ Type|Item
 :----|:----
 **CPU** | Intel - Core i5-10400F
 **CPU Cooler** | AZZA Blizzard 120mm
-**Motherboard** | MSI B460M PRO VDH WIFI
+**Motherboard** | ASUS TUF Gaming B460M-PLUS WIFI
 **Memory** | TEAMGROUP T-Force Vulcan Z 16GB
-**Storage (macOS)** | SSD Western Digital GREEN 240gb M.2 
+**Storage (macOS)** | SSD Western Digital GREEN 240GB M.2 
 **Storage (Windows & PopOS!)** | SSD KINGSTON A400 480GB
 **Video Card** | ASUS Dual RX 5500XT EVO 4GB
-**WiFi + Bluetooth** | Intel® Wireless AC 3168, Bluetooth 4.2
+**WiFi + Bluetooth** | Intel® WiFi 6 AC 3168, Bluetooth 5.1
 **Case** | Cooler Master Q300L
 **Power Supply** | EVGA 600W 80+
 **Monitor 1** | HP 27y
@@ -38,13 +38,12 @@ Type|Item
 - [x] iCloud
 - [x] iMessage
 - [x] FaceTime
-- [x] Virtualization (w/Bluestacks, VirtualBox)
+- [x] Virtualization (VirtualBox)
 - [x] Sleep
-- [x] Wireless
-- [x] Sound (Layout: 1)
-- [x] Bluetooth
+- [x] WiFi / Bluetooth
+- [x] Sound
 
-### Not working (yet)
+### Not tested (yet)
 
 - [ ] Airdrop
 
@@ -75,6 +74,4 @@ How-To: [config.plist Setup](https://dortania.github.io/OpenCore-Install-Guide/c
 ### Updates
 
 - **2021-03-30**: OC 0.6.3 & Big Sur.
-
-
-![benchmark](https://github.com/gusmendez99/hackintosh/blob/master/images/benchmark.png?raw=true)
+- **2021-07-16**: New fresh install after MoBo short circuit months ago haha.
