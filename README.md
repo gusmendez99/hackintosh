@@ -5,6 +5,8 @@
 
 This is my first Hackintosh, running macOs Big Sur and completing my Dual Boot PC (macOS / PopOS!), bye Windows...
 
+![hackintosh](https://github.com/gusmendez99/hackintosh/blob/master/images/setup.jpeg?raw=true)
+
 ![macOS](https://github.com/gusmendez99/hackintosh/blob/master/images/about.png?raw=true)
 
 - [OpenCore Install Guide](https://dortania.github.io/OpenCore-Install-Guide)
@@ -75,3 +77,4 @@ How-To: [config.plist Setup](https://dortania.github.io/OpenCore-Install-Guide/c
 
 - **2021-03-30**: OC 0.6.3 & Big Sur.
 - **2021-07-16**: New fresh install after MoBo short circuit months ago haha.
+- **2022-02-24**: Discontinued project. It was good to do this project under the premise of making a functional hackintosh. However, I'll migrate my environment to a MBP 14"... PopOS! still working fine.
